@@ -2,7 +2,7 @@
 Analysing Nutrition Contents in the food items of Starbucks.
 # OVERVIEW ABOUT DATASET
 Nutrition facts for several Starbucks food items is get analysed using basic visualisation techniques.For that in this repo,I used standard libraries for visualisations include
-Seaborn for statistical approach visualisation and Matplotlib.pyplot for graphical pictorial representations.
+Seaborn for statistical approach visualisation and Matplotlib.pyplot for graphical pictorial representations.Basic Exploratory process were done in this dataset.
 # PLOTS USED
 # Line plot
 # Scatter plot
